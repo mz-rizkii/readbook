@@ -1,0 +1,8 @@
+# npm
+node_modules
+package-lock.json
+.nyc_output
+*.env
+*.log
+*.gz
+
